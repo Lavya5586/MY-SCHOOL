@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+input {
+    background: grey;
+}
+
+.my_nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
